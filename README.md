@@ -28,5 +28,5 @@ Versión actual: v3.0
 
 Última actualización: 02/09/2026
 
-Estado: Prototipo final
+Estado: Pretotipo
 
