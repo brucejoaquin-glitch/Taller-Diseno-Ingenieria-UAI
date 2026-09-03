@@ -8,7 +8,7 @@ Gaspar Calatayud - Líder
 
 Santiago Inda - Diseñador
 
-Antonio Valenzuela - Arduinista
+Antonio Valenzuela - Programador
 
 Juan Zepeda - Diseañdor
 
