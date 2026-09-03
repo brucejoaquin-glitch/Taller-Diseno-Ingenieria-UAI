@@ -6,11 +6,11 @@ Joaquin Bruce - Programador
 
 Gaspar Calatayud - Director de desarrollo
 
-Santiago Inda - Diseñador
+Santiago Inda - Diseñador de prototipo
 
 Antonio Valenzuela - Desarrollador de código 
 
-Juan Zepeda - Diseñador
+Juan Zepeda - Diseñador de prototipo
 
 ODS Seleccionado: 6 - Agua limpia y saneamiento
 
