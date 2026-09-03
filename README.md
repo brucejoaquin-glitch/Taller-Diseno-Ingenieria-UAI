@@ -2,15 +2,15 @@
 Información del Equipo
 Integrantes:
 
-Joaquin Bruce - Rol 1
+Joaquin Bruce - Arduinista
 
-Gaspar Calatayud - Rol 2
+Gaspar Calatayud - Líder
 
-Santiago Inda - Rol 3
+Santiago Inda - Diseñador
 
-Antonio Valenzuela - Rol 4
+Antonio Valenzuela - Arduinista
 
-Juan Zepeda - Rol 5
+Juan Zepeda - Diseañdor
 
 ODS Seleccionado: 6 - Agua limpia y saneamiento
 
