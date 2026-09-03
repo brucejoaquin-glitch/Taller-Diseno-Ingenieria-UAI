@@ -2,15 +2,15 @@
 Información del Equipo
 Integrantes:
 
-Joaquin Bruce - Arduinista
+Joaquin Bruce - Programador
 
-Gaspar Calatayud - Líder
+Gaspar Calatayud - Director de desarrollo
 
 Santiago Inda - Diseñador
 
 Antonio Valenzuela - Programador
 
-Juan Zepeda - Diseañdor
+Juan Zepeda - Diseñador
 
 ODS Seleccionado: 6 - Agua limpia y saneamiento
 
