@@ -23,6 +23,10 @@ Detector inteligente de fugas: Sistema que utiliza un sensor de flujo conectado 
 
 
 Estado del Proyecto
+
 Versión actual: v3.0
+
 Última actualización: 02/09/2026
+
 Estado: Prototipo final
+
