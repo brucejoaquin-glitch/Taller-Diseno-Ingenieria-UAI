@@ -8,7 +8,7 @@ Gaspar Calatayud - Director de desarrollo
 
 Santiago Inda - Diseñador
 
-Antonio Valenzuela - Programador
+Antonio Valenzuela - Desarrollador de código 
 
 Juan Zepeda - Diseñador
 
